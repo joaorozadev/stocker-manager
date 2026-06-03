@@ -1,0 +1,14 @@
+.env
+seeder.py
+__pycache__/
+venv/
+/vendor/
+node_modules/
+/tmp/
+/cache/
+*.log
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+CAPTURAS/
