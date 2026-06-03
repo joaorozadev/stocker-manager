@@ -92,4 +92,4 @@ Durante o desenvolvimento deste projeto, os seguintes materiais e comunidades fo
 * Estagiário de Dados e Desenvolvedor Full-Stack
 * Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 * 💼 [LinkedIn](https://www.linkedin.com/in/joão-pedro-souza-bb0b5a273/)
-* 🐙 [GitHub](https://github.com/SEU-USUARIO-AQUI)
+* 🐙 [GitHub]([https://github.com/SEU-USUARIO-AQUI](https://github.com/joaorozadev))
