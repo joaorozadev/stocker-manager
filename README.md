@@ -51,7 +51,7 @@ O projeto foi construído "do zero"(No começo pretendia fazer algo mais básico
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/seu-usuario/stocker-manager.git](https://github.com/seu-usuario/stocker-manager.git)
+git clone [https://github.com/joaorozadev/stocker-manager.git](https://github.com/joaorozadev/stocker-manager.git)
 ```
 2. Configuração do PostgreSQL:
 ```
@@ -81,7 +81,7 @@ Abra o navegador e acesse a URL da pasta public/: http://localhost/stocker-manag
 Durante o desenvolvimento deste projeto, os seguintes materiais e comunidades foram essenciais para a construção da interface e resolução de problemas técnicos:
 
 **UI/UX e Frontend**
-* [Dribbble - Inventory & Supply Chain Management](https://dribbble.com/shots/24501848-Inventory-and-Supply-chain-Management) - Inspiração principal para a paleta de cores (Dark Mode) e disposição visual do Dashboard.
+* [Dribbble - Inventory & Supply Chain Management](https://dribbble.com/shots/24501848-Inventory-and-Supply-chain-Management) - Inspiração principal para a paleta de cores e disposição visual do Dashboard.
 * [CodingNepal - Sidebar Menu Templates](https://www.codingnepalweb.com/free-sidebar-menu-templates/) - Referência estrutural e visual para a criação da navegação lateral responsiva.
 
 **Comunidade e Consultas Técnicas**
